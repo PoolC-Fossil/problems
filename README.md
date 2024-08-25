@@ -244,10 +244,11 @@ $$
 
 ### 12. 현재 우리가 사용하고 있는 터미널은 과거 "컴퓨터 터미널"이라고 불리는 하드웨어를 에뮬레이션하는 소프트웨어이며, 이러한 터미널 에뮬레이터가 실제 하드웨어를 흉내내기 위해서는 커널의 도움을 받아야 한다. Linux 기준, 이와 같은 종류의 에뮬레이션을 위해 커널이 제공하는 IPC 방식의 이름은 무엇인가?
 
-<figure align="center">
+<p align="center">
 <img width="400px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/DEC_VT100_terminal_transparent.png/1920px-DEC_VT100_terminal_transparent.png">
-<figcaption>By <a href="//commons.wikimedia.org/w/index.php?title=User:Gorthmog&amp;action=edit&amp;redlink=1" class="new" title="User:Gorthmog (page does not exist)">Gorthmog</a> - This file has been extracted from another file, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=78497051">Link</a></figcaption>
-</figure>
+<br>
+"DEC VT100 Computer Terminal" By <a href="//commons.wikimedia.org/w/index.php?title=User:Gorthmog&amp;action=edit&amp;redlink=1" class="new" title="User:Gorthmog (page does not exist)">Gorthmog</a> - This file has been extracted from another file, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=78497051">Link</a>
+</p>
 
 - 정답: Pseudoterminal, 혹은 pty
 
