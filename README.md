@@ -165,7 +165,7 @@ int main() {
 
 ```c++
 void (*signal(int _, void (*)(int)))(int) {
-    return SECRET; // This macro expands to a right return value
+    return SECRET; // This macro expands to the appropriate return value
 }
 
 int main() {
