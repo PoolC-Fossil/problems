@@ -3,7 +3,7 @@
 ![image](https://poolc.org/assets/main-banner-DAW2HCpy.png)
 
 > [!NOTE]
-> 일부 문제는 교육적이기보다 단순 재미를 주기 위한 용도가 더 크다는 점을 알립니다. 대표적으로 전공자 4번 문제...
+> 일부 문제는 교육적이기보다 단순 재미를 주기 위한 용도가 더 크다는 점을 알립니다. 대표적으로 전공자 [4번](https://github.com/PoolC-Fossil/problems?tab=readme-ov-file#4-c17-%ED%91%9C%EC%A4%80%ED%95%98%EC%97%90%EC%84%9C-%EC%95%84%EB%9E%98-%EC%BD%94%EB%93%9C%EA%B0%80-%EC%84%B1%EA%B3%B5%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%BB%B4%ED%8C%8C%EC%9D%BC%EB%90%98%EA%B8%B0-%EC%9C%84%ED%95%B4-%EB%B9%88%EC%B9%B8%EC%97%90-%EB%93%A4%EC%96%B4%EA%B0%88-%EC%95%8C%EB%A7%9E%EC%9D%80-%EC%BD%94%EB%93%9C-%EC%A1%B0%ED%95%A9%EC%9D%802) 문제...
 
 ## 비전공자용 문제
 
