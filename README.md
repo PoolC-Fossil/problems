@@ -71,6 +71,7 @@ print(a)
 
   1. 런타임 에러
   2. "Hallo, World!"가 출력됨
+  3. "Hello, World!"가 출력됨
 
 - 정답: 런타임 에러
 
