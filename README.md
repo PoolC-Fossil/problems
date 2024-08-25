@@ -189,13 +189,19 @@ int main() {
 
 - 정답: CR3
 
+<br>
+
 ### 6. Linux와 Ubuntu의 차이는?
 
 - 정답: Linux는 커널, Ubuntu는 Linux 커널을 포함하고 있는 OS 배포판. (Ubuntu가 Linux를 포함한다는 의미를 내포한다면 정답 처리)
 
+<br>
+
 ### 7. 이미 학습된 큰 네트워크(Teacher Network)의 지식을 다른 작은 네트워크(Student Network)에게 전달하는 ML 모델 학습 방법론을 무엇이라고 하는가?
 
 - 정답: Knowledge Distillation, 혹은 Distillation
+
+<br>
 
 ### 8. 두 확률 분포가 얼마나 다른지를 나타내는 척도 중 하나로, ML 모델의 loss function에 자주 사용되는 이것의 이름은? (힌트: VAE(Variational AutoEncoder)에서 사용됨)
 
