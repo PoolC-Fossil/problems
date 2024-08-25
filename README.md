@@ -203,28 +203,29 @@ int main() {
 
 <br>
 
-### 8. 두 확률 분포가 얼마나 다른지를 나타내는 척도 중 하나로, ML 모델의 loss function에 자주 사용되는 이것의 이름은? (힌트: VAE(Variational AutoEncoder)에서 사용됨)
+### 8. Dying ReLU 문제를 해결하기 위해 나온 활성화 함수(Activation Function) 중 하나로, 다음과 같은 정의를 갖는 함수의 이름은?
 
-- 정답: Kullback-Leibler divergence (쿨백-라이블러 발산)
+$$
+\text{SomeReLU}(z) =
+\begin{cases}
+0.01z & \text{for } z < 0 \\
+z & \text{for } z \geq 0
+\end{cases}
+$$
 
-```c
-#include <stdio.h>
+- 정답: Leaky ReLU(LReLU)
 
-int main() {
-    int a[3] = {4, 5, 6};
-    int (*p)[3] = &a;
-    printf("%d\n", (*p)[0]);
-    return 0;
-}
-```
+<br>
 
-- 보기
+### 9. Java 8(혹은 더 상위 버전)의 HashMap은 해시 충돌(Hash Collision)이 발생할 경우, Separate Chaining 방식으로 이를 해결한다. 일반적인 Separate Chaining은 연결 리스트를 사용하지만, Java의 HashMap은 더 효율적으로 충돌을 해결하기 위해 다른 자료구조를 추가로 활용한다. 이 자료구조의 이름은?
 
-  1. 컴파일 에러
-  2. Segmentation Fault
-  3. 4가 출력됨
+- 정답: Red-black Tree(레드-블랙 트리)
 
-- 정답: 4가 출력됨
+<br>
+
+### 10. Domain Aliasing에 사용될 수 있는 DNS 레코드 유형으로, 도메인 주소를 다른 도메인 주소로 맵핑하는 이 레코드 유형의 이름은?
+
+- 정답: CNAME
 
 <br>
 
