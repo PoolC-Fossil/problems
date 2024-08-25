@@ -1,0 +1,39 @@
+C function pointer
+
+Polymorphism
+
+Linux vs Ubuntu
+
+LLVM
+
+Linux
+
+Computer Network
+
+Container
+
+Docker
+
+Data Structure
+
+Memory Allocator
+
+System Call
+
+Binary Hacking
+
+ASLR
+
+Computer Architecture
+
+Matrix Multiplication
+
+GPU
+
+CPU
+
+NPU
+
+MMU
+
+TTY
