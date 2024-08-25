@@ -26,7 +26,7 @@ print(b)
 
 ```python
 a = [[1], [2, 3]]
-b = a.copy()`
+b = a.copy()
 a[0][0] = 0
 print(b)
 ```
